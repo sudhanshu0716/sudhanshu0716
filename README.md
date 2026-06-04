@@ -68,9 +68,8 @@ I am a passionate **Software Engineer** specializing in full-stack web developme
 ---
 
 ## &#x1F4CA; Git Stats & Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudhanshu0716&show_icons=true&theme=radical&hide_border=true" alt="Sudhanshu's GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu0716&layout=compact&theme=radical&hide_border=true" alt="Sudhanshu's Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhanshu0716&theme=radical" alt="Sudhanshu's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudhanshu0716&theme=radical" alt="Sudhanshu's Top Languages" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu0716&theme=radical&hide_border=true" alt="Sudhanshu's GitHub Streak" />
 
 ---
