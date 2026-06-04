@@ -74,5 +74,3 @@ I am a passionate **Software Engineer** specializing in full-stack web developme
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu0716&layout=compact&theme=radical&hide_border=true" alt="Sudhanshu's Top Languages" />
 
 ---
-
-Generated with &#x2764;&#xFE0F; to showcase my technical journey. Feel free to reach out for collaborations!
