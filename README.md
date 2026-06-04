@@ -1,6 +1,6 @@
 # &#x1F4BB; Sudhanshu | Software Engineer & Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=52b788&center=false&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sudhanshu!+%F0%9F%91%8B;Software+Engineering+Intern;Full+Stack+Web+Developer;AI+Integration+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&size=24&duration=3000&pause=1000&color=52b788&center=false&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sudhanshu!+%F0%9F%91%8B;Software+Engineering+Intern;Full+Stack+Web+Developer;AI+Integration+Enthusiast" alt="Typing SVG" />
 
 [![Email](https://img.shields.io/badge/Email-sudh0716%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudh0716@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-sudh0716-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudh0716/) [![LeetCode](https://img.shields.io/badge/LeetCode-sudhanshu0716-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/sudhanshu0716/)
 
@@ -70,6 +70,6 @@ I am a passionate **Software Engineer** specializing in full-stack web developme
 ## &#x1F4CA; Git Stats & Activity
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudhanshu0716&theme=radical" alt="Sudhanshu's GitHub Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudhanshu0716&theme=radical" alt="Sudhanshu's Top Languages" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu0716&theme=radical&hide_border=true" alt="Sudhanshu's GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=sudhanshu0716&theme=radical&hide_border=true" alt="Sudhanshu's GitHub Streak" />
 
 ---
