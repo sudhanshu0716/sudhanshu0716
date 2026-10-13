@@ -10,7 +10,6 @@
 
 I am a passionate **Software Engineer** specializing in full-stack web development, pipeline automation, and intelligent integrations. I combine robust backend systems, interactive frontend canvases, and artificial intelligence to build modern applications.
 
-~ &#x1F4BC; **Current Role**: Software Engineering Intern at **National Instruments, Bengaluru**.
 ~ &#x1F680; **Specialties**: MERN Stack (React, Node.js, Express, MongoDB), DevOps (Azure Pipelines, YAML configurations), AI Integrations (Gemini API, OpenAI), and PWA optimization.
 
 ---
